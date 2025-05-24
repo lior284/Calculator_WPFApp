@@ -14,11 +14,17 @@ A simple calculator built with WPF in C#. It supports basic arithmetic (addition
 
 ## 📸 Screenshots
 
-### Calculator UI
-![Calculator UI](Screenshots/Calculator%20-%20UI.png)
+### Calculator Default Screen
+![Calculator Default Screen](Screenshots/Calculator%20-%20Default%20Screen.png)
 
-### Example Usage
-![Example Usage](Screenshots/Calculator%20-%20Example.png)
+### Example Usage #1
+![Example Usage #1](Screenshots/Calculator%20-%20ex%201.png)
+
+### Example Usage #2
+![Example Usage #2](Screenshots/Calculator%20-%20ex%202.png)
+
+### Example Usage #3
+![Example Usage #3](Screenshots/Calculator%20-%20ex%203.png)
 
 ## 🚀 How to Run
 
